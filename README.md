@@ -31,6 +31,9 @@ A live portfolio showcasing my skills and projects.
 ## 📈 GitHub Stats
 ![Chungsiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChungsiangRoeurn&show_icons=true&theme=radical)
 
+![Loading Animation](https://media.giphy.com/media/3oEjI6S17s1CqKMcHU/giphy.gif)
+
+
 ## 🤝 Connect With Me
 
 - 🌐 **Website:** [chungsiang-roeurn.vercel.app](https://chungsiang-roeurn.vercel.app/)
