@@ -12,24 +12,21 @@
 ## 🛠️ My Skills
 
 **Programming Languages:**
-- JavaScript (ES6+), TypeScript, HTML, CSS
+- JavaScript (ES6+), TypeScript, Python
 
 **Frameworks & Libraries:**
 - React.js, Next.js, Tailwind CSS, Laravel
 
 **Tools & Platforms:**
-- Git, GitHub, Directus, XAMPP, PostgreSQL
+- Git, GitHub, Directus, XAMPP, PostgreSQL, MySQL
 
 **Languages:**
-- Khmer (Native), English (Fluent)
+- Khmer (Native), English (Fluent), Chinese (Basic), Thai (Basic)
 
 ## 📂 Featured Projects
 
 ### 🚀 [My Personal Website](https://chungsiang-roeurn.vercel.app/)
 A live portfolio showcasing my skills and projects.
-
-### 📋 [Todo-List](https://github.com/ChungsiangRoeurn/Todo-List-Typescript-intern)
-A TypeScript-based project with modern design and functionality.
 
 ## 📈 GitHub Stats
 ![Chungsiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChungsiangRoeurn&show_icons=true&theme=radical)
@@ -37,7 +34,7 @@ A TypeScript-based project with modern design and functionality.
 ## 🤝 Connect With Me
 
 - 🌐 **Website:** [chungsiang-roeurn.vercel.app](https://chungsiang-roeurn.vercel.app/)
-- 💼 **LinkedIn:** [in/chungsiang-roeurn](https://linkedin.com/in/chungsiang-roeurn)
+- 💼 **LinkedIn:** [in/chungsiang-roeurn](https://www.linkedin.com/in/chungsiang-roeurn-%E9%99%88%E4%BF%8A%E7%A5%A5-0457402b9/)
 - 📧 **Email:** rn.chungsiang@gmail.com
 - 📱 **Phone:** +855 71 493 7112
 
