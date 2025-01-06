@@ -1,5 +1,3 @@
-![GitHub Banner](https://via.placeholder.com/1200x400.png?text=Welcome+to+my+GitHub+Profile!)
-
 ### Hi, I'm CHUNGSIANG!
 
 ### 🌟 About Me
@@ -10,7 +8,13 @@
 - 🌟 Experienced in **React.js, Next.js**, and working on building my Node.js skills.
 
 ### 💻 Most Used Languages
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ChungsiangRoeurn&layout=compact&theme=dark&hide_border=true)
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ChungsiangRoeurn&layout=compact&theme=dark&border_color=ffffff&hide=html)
+
+---
+💡 *Note: Stats reflect my public repositories and showcase the languages I work with most frequently.*
+
+
 
 ### 📈 Github Stats
 ![Chungsiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChungsiangRoeurn&show_icons=true&theme=radical)
