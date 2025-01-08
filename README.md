@@ -5,7 +5,7 @@
 - 🎓 ***Student*** at Royal University of Phnom Penh, studying Computer Science.
 - 💻 **Full Stack Developer** specializing in web and mobile app development.
 - 🔍 Passionate about **technology, innovation, and backend development**.
-- 🌟 Experienced in **React.js, Next.js**, and working on building my Node.js skills.
+- 🌟 Experienced in **React.js, Next.js**, currently, still learning on Node, Expressjs, as well.
 
 ### 💻 Most Used Languages
 
