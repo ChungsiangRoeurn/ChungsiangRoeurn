@@ -1,33 +1,76 @@
-### Hi, I'm CHUNGSIANG!
+# 👋 Hi, I'm CHUNGSIANG!
 
-### 🌟 About Me
-
-- 🎓 ***Student*** at Royal University of Phnom Penh, studying Computer Science.
-- 💻 **Full Stack Developer** specializing in web and mobile app development.
-- 🔍 Passionate about **technology, innovation, and backend development**.
-- 🌟 Experienced in **React.js, Next.js**, currently, still learning on Node, Expressjs, as well.
-
-### 💻 Most Used Languages
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ChungsiangRoeurn&layout=compact&theme=dark&border_color=ffffff&hide=html)
-
----
-💡 *Note: Stats reflect my public repositories and showcase the languages I work with most frequently.*
-
-
-
-### 📈 Github Stats
-![Chungsiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChungsiangRoeurn&show_icons=true&theme=radical)
-
-
-### 🤝 Connect With Me
-
-- 🌐 **Website:** [chungsiang-roeurn.vercel.app](https://chungsiang-roeurn.vercel.app/)
-- 💼 **LinkedIn:** [in/chungsiang-roeurn](https://www.linkedin.com/in/chungsiang-roeurn-%E9%99%88%E4%BF%8A%E7%A5%A5-0457402b9/)
-- 📧 **Email:** rn.chungsiang@gmail.com
-- 📱 **Phone:** +855 71 493 7112 / +855 96 707 3775
+### 🚀 Full Stack Developer | Tech Enthusiast | Lifelong Learner
 
 ---
 
-### 🌟 Quote:
-> "The old things are gone; the new things are going to come. Let's do something the best we can right now!"
+## 🎓 About Me
+
+- 🌍 Based in Phnom Penh, Cambodia
+- 🏫 **Computer Science Student** at Royal University of Phnom Penh
+- 💡 Passionate about building scalable solutions and innovative applications
+- 🛠️ Specializing in **Web Development** with focus on modern full-stack technologies
+- 🌱 Currently mastering **Cloud Technologies** and **System Design**
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Mobile
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChungsiangRoeurn&show_icons=true&theme=radical&hide_border=true" />
+    </td>
+    <td align="center">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChungsiangRoeurn&layout=compact&theme=radical&hide_border=true&langs_count=6" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChungsiangRoeurn&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://chungsiang-roeurn.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/chungsiang-roeurn-陳俊祥-0457402b9/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rn.chungsiang@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 💬 Favorite Quote
+
+> _"The best time to plant a tree was 20 years ago. The second best time is now."_  
+> 🌱 **– Cambodia Proverb**
