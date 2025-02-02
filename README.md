@@ -1,6 +1,12 @@
-# 👋 Hi, I'm CHUNGSIANG!
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=500&lines=👋+Hi%2C+I'm+CHUNGSIANG!;🚀+Full+Stack+Developer;💡+Tech+Innovator;🌱+Continuous+Learner;✨+Welcome+to+my+GitHub!" alt="Typing SVG" />
+  </a>
+</p>
 
-### 🚀 Full Stack Developer | Tech Enthusiast | Lifelong Learner
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
+</p>
 
 ---
 
@@ -9,7 +15,7 @@
 - 🌍 Based in Phnom Penh, Cambodia
 - 🏫 **Computer Science Student** at Royal University of Phnom Penh
 - 💡 Passionate about building scalable solutions and innovative applications
-- 🛠️ Specializing in **Web Development** with focus on modern full-stack technologies
+- 🛠️ Specializing in **Web Development** with a focus on modern full-stack technologies
 - 🌱 Currently mastering **Cloud Technologies** and **System Design**
 
 ---
@@ -28,6 +34,7 @@
 
 ### Mobile
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Processing Web Apps](https://img.shields.io/badge/Processing_Web_Apps-20232A?style=for-the-badge&logo=processingfoundation&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
