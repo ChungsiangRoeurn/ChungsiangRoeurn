@@ -58,7 +58,7 @@
 
 ---
 
-## 📌 GitHub Contribution Snake  
+## 📌 Tech Snake  
 
 <p align="center">
  <picture align="center">
