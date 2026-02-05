@@ -1,5 +1,4 @@
 <p align="center">
-  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:58A6FF&height=180&section=header&text=JIANGSUNG&fontSize=40&fontColor=ffffff" /> -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:7EE787&height=2&section=header&reversal=false" />
 </p>
 <p align="center">
@@ -27,7 +26,7 @@
 <div align="center">
   <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chungsiangroeurn&theme=transparent" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chungsiangroeurn&theme=transparent" />
-  <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chungsiangroeurn&theme=transparent&exclude=java,rust,jupyter%20Notebook" />
+  <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chungsiangroeurn&theme=transparent&exclude=java,html,jupyter%20Notebook" />
 </div>
 
 ---
